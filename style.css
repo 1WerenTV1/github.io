@@ -1,0 +1,461 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+	 /*background: url("сенко фото.jpg");*/
+	 background: #fa0;
+     height: 150px;
+     position: relative;
+}
+
+#shapka{
+     width: 130px;
+     height: 130px;
+     /*background: #f00;*/
+     position: relative;
+     top: 10px;
+     left: 50px;
+     background-image: url("https://chpic.su/_data/stickers/s/Senkonico/Senkonico_054.webp");
+     background-size: cover;
+     background-position: center center;
+}
+
+header h1{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);   
+    font-size: 40px;
+}
+
+nav{
+	background: #d9212d;
+    height: 100px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+nav a{
+	color: #fff;
+    font-size: 26px;
+    text-decoration: none;
+    margin: 0 10px;
+    line-height: 50px;
+    transition: 10s;
+}
+
+nav a:hover{
+	 color: #000;
+}
+ #parallax{
+ 	 position: relative;
+ 	 height: 100vh;
+     background-image: url("https://media1.tenor.com/images/f696915b10670b587fa3d8263400cf94/tenor.gif?itemid=17464149");
+     background-size: cover;
+     background-position: center center;   
+     background-attachment: fixed;
+
+}
+
+
+#parallax div{
+	   position: absolute;
+       left: 50%;
+       top: 50%;
+       transform: translate(-50%,-50% );
+       text-align: center;
+       color: #ff00f7;
+}
+
+#parallax h1, #parallax h2 {
+       font-size: 50px;	
+      
+}
+
+#senko{
+      background: #fa0;
+}
+
+section{
+	min-height: 400px;
+    padding: 50px 0;
+}
+section h1{
+	text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.container{
+	width: 90%;
+    margin: auto;
+
+}
+.img_left img{
+	width: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.img_left p, .img_right p{
+	float-size: 18px;
+    text-align: justify;
+}
+#tsenko{
+	background: #ed5a5a;
+}
+#ttsenko{
+    background: #f2aaaa;
+}
+.clear{
+    clear: both;
+    margin-bottom: 40px;
+}
+.img_right img{
+    width: 50%;
+    float: right;
+    margin-left: 20px;
+
+}
+footer{
+    background: #1f1111;
+    height: 300px;
+    position: relative;
+    
+} 
+  
+footer div{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50% );
+    text-align: center;
+    color: #FFF;
+
+}
+#tttsenko{
+    background: #b88484;
+}
+#ttttsenko{
+    background: #d9212d;
+}
+#tttttsenko{
+    background: #fa0;
+}
+
+span{
+    color: #db3da7;
+}
+.lxx{
+    color: #46f2e7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
